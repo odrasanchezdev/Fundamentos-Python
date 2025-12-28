@@ -60,6 +60,7 @@ Para ejecutar un archivo `.py`, abre tu terminal y escribe:
 <br>
 
 **Cómo descargar el repositorio**
+
 No necesitas instalar nada complicado. Puedes obtener el repositorio de dos formas:
 1. Clonar el repositorio con Git (Si cuentas con experiencia): `git clone https://github.com/odrasanchezdev/python-fundamentos-didacticos`
 2. Descargar el ZIP desde GitHub: En esta página principal, busca el botón azul `Code` y despliega el menú. Da clic en el botón“Download ZIP” y descomprímelo en tu equipo.
